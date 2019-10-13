@@ -240,3 +240,4 @@ dmypy.json
 !/models/
 !/models/vgg16_v2.pt
 !/saved_models/
+/saved_models/
